@@ -1,0 +1,2 @@
+name,TotalRunTime,average_net_length,clb_blocks,critical_path,io_blocks,packing_time,placement_time,routing_time,total_logic_block_area,total_routing_area,total_routing_time,total_wire_length
+00_mac_20_MIN_ROUTE_CHAN_WIDTH,3,8.17220,32,7.1297e-09,80,0.11,0.04,0.70,1.72461e+06,165506,0.7,2705
