@@ -3,7 +3,7 @@
 //	Description: Verilog modules for Unique Switch Blocks[10][1]
 //	Author: Xifan TANG
 //	Organization: University of Utah
-//	Date: Wed Apr 17 23:48:12 2024
+//	Date: Mon Apr 29 20:47:49 2024
 //-------------------------------------------
 //----- Default net type -----
 `default_nettype none

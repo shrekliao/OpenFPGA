@@ -4,10 +4,10 @@ io_blocks = 128
 total_routing_area = 559795
 total_logic_block_area = 4.41931e+06
 total_wire_length = 9968
-packing_time = 0.28
+packing_time = 0.27
 placement_time = 0.15
-routing_time = 1.98
+routing_time = 1.97
 average_net_length = 12.0971
 critical_path = 1.09896e-08
-total_routing_time = 1.98
+total_routing_time = 1.97
 
